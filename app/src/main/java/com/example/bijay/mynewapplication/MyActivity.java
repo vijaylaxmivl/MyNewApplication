@@ -15,6 +15,7 @@ public class MyActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
         Toast.makeText(getBaseContext(),"Hello",Toast.LENGTH_SHORT).show();
+        Toast.makeText(getBaseContext(),"Hello 2",Toast.LENGTH_SHORT).show();
     }
 
 
