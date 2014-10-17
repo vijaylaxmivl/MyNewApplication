@@ -8,7 +8,7 @@ import android.view.MenuItem;
 
 public class MyActivity extends Activity {
  public int vv=0;
-
+public String test="test";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
